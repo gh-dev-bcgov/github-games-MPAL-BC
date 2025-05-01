@@ -1,6 +1,6 @@
 ## Welcome to GitHub Games
 
-A project based learning activity for people who are getting started with Git and GitHub.
+A project based learning activity for people who are getting started with Git and GitHub. - May 1st ##
 
 You can play the game at: https://gh-dev-bcgov.github.io/github-games-MPAL-BC/
 
